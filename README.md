@@ -4,12 +4,12 @@ A Java-based console application demonstrating **Object-Oriented Programming (OO
 ## 📸 Screenshots
 
 ### Main Menu and other options
-(assets/h1.png)
-(assets/h2.png)
-(assets/h3.png)
-(assets/h4.png)
-(assets/h5.png)
-(assets/h6.png)
+![Option 1](assets/h1.png)
+![Option 2](assets/h2.png)
+![Option 3](assets/h3.png)
+![Option 4](assets/h4.png)
+![Option 5](assets/h5.png)
+![Option 6](assets/h6.png)
 
 ### Member Search
 ![Member Search](assets/member_search.png)
